@@ -151,7 +151,24 @@ GenerateClassCluster=0
 DocumentUniqueId=BCGBWUSN
 
 [Document7]
-DocumentPath=e3.PcbDoc
+DocumentPath=e3rev2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SVQJJXUT
+
+[Document8]
+DocumentPath=e3rev1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -182,7 +199,7 @@ AutoOpenFile=0
 AutoOpenOutJob=-1
 
 [Generic_SmartPDFSettings]
-ProjectMode=0
+ProjectMode=-1
 ZoomPrecision=50
 AddNetsInformation=-1
 AddNetPins=-1
